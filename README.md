@@ -5,3 +5,5 @@ The dataset is taken from Kaggle
 Libraries required : Tensorflow, seaborn, sklearn ,pandas, numpy ,matplotlib
 
 This is just to help learn some basic concepts of TF 2.0
+
+![training loss plot](training_plot.png)
